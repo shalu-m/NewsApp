@@ -1,0 +1,77 @@
+.image-wid{
+    width: 100%;
+    height:200px;
+}
+.view-wid{
+    width: 100%;
+    height:450px;
+
+}
+.wid-image{
+    width: 100%;
+    height: 250px;
+}
+.nav_color{
+    background-color: gray;
+
+}
+.link_color{
+    color: white;
+    text-decoration: none;
+}
+.link_clr{
+    text-decoration: none;
+    color: black;
+}
+.second_nav{
+    background-color: lightgray;
+}
+.footer_clr{
+    background-color: gray;
+}
+.nav_name{
+    color: darkblue;
+}
+.login-width{
+    width: 60%;
+    margin: 0 auto;
+}
+.butttn{
+    width: 100%;
+    
+    color: white;
+}
+.title{
+    color: darkblue;
+}
+.newsLogo{
+    width: 150px;
+    height: 80px;
+}
+.search_input{
+    width: 100%;
+    height: 50px;
+}
+.input_width{
+    width: 60%;
+    margin: 0 auto;
+    
+}
+.input_background{
+    background-color: lightslategray;
+    padding: 15px 0 15px 0;
+}
+.back_grod{
+    width: 40%;
+    margin: 0 auto;
+}
+.image_size{
+    width: 100%;
+    height: 250px;
+}
+.icon_color{
+    color: black;
+}
+.icon_color:hover{
+    transform: scale(1.5);
+}
